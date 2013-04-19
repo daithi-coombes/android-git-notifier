@@ -5,13 +5,21 @@ function get_git_user(){
 	var url_foo = 'https://api.github.com/user/repos'
 	//url = url_foo;
 	var username = 'daithi-coombes';
-	var password = '*************'
+	var password = '***'
 	var data = false;
 
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function(){
 		if(xhr.readyState == 4 && xhr.status==200){
-			document.getElementById('debug').innerHTML = "status: " + xhr.status + "\n" + xhr.responseText
+			res = JSON.parse(xhr.responseText);
+			stdout = "";
+
+			for(var i=0; i<res.length; i++)
+				stdout += res[i].subject.title + "\n";
+
+			document.getElementById('debug').innerHTML = "status: " + xhr.status + "\n" + stdout;
+			if(navigator.notification)
+				navigator.notification.beep();
 		}
 	}
 	xhr.dataType = 'json';
