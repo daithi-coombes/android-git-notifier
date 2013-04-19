@@ -43,6 +43,7 @@
 /var/www/android/android-git-notifier/phonegap/assets/www/img/logo.png \
 /var/www/android/android-git-notifier/phonegap/assets/www/img/cordova.png \
 /var/www/android/android-git-notifier/phonegap/assets/www/js/index.js \
+/var/www/android/android-git-notifier/phonegap/assets/www/js/githubNotifier.js \
 /var/www/android/android-git-notifier/phonegap/assets/www/res/screen \
 /var/www/android/android-git-notifier/phonegap/assets/www/res/icon \
 /var/www/android/android-git-notifier/phonegap/assets/www/res/screen/android \
