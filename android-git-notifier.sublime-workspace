@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"File",
+				"FileUtils"
+			],
+			[
+				"targt",
+				"targetLocation"
+			],
+			[
+				"API",
+				"AutoFlow_API"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"task",
+				"task_header"
+			],
+			[
+				"Diret",
+				"directory"
+			],
+			[
+				"build",
+				"buildpack"
+			],
+			[
+				"serv",
+				"server_start"
+			],
+			[
+				"verif",
+				"verify_hosting_dependencies"
+			],
+			[
+				"dev",
+				"dev_server"
+			],
+			[
+				"debug",
+				"debug"
+			],
+			[
+				"call_user_",
+				"call_user_method_array"
+			],
+			[
+				"call_user",
+				"call_user_func_array"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"WP_E",
+				"WP_Extend"
+			],
+			[
+				"WP",
+				"WP_MVC_Admin_Bar"
+			],
+			[
+				"func_get_",
+				"func_get_args"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wp_ad",
+				"wp_admin_bar_class"
+			],
+			[
+				"admin_",
+				"admin_bar_init"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"admin",
+				"admin_bar_init"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"blog",
+				"blog_id"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"get_u",
+				"get_user"
+			],
+			[
+				"admins",
+				"admins"
+			],
+			[
+				"for",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "prototype/git-notifier.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/cityindex.loc/wordpress-development-flow/foo.sh",
+		"/var/www/cityindex.loc/wordpress-development-flow/Rakefile",
+		"/var/www/cityindex.loc/wordpress-development-flow/Vagrantfile",
+		"/var/www/cityindex.loc/stackato-buildpack-wordpress/bin/compile",
+		"/var/www/cityindex.loc/wordpress-development-flow/provision.sh",
+		"/var/www/cityindex.loc/cityindex.github.com/index.html",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/Vagrantfile",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/Rakefile",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/src/public/docs/phpdoc-plugin.xml",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/src/public/docs/phpdoc.xml",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/Gruntfile.js",
+		"/var/www/cityindex.loc/Rakefile",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/dist/public/docs/phpdoc.xml",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/.gitignore",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-content/plugins/autoflow/tests/autoflowTests.php",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-content/plugins/autoflow/application/modules/AutoFlow_API.class.php",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/Gemfile",
+		"/var/www/cityindex.loc/cityindex.github.com/_includes/themes/labs-team/default.html",
+		"/var/www/cityindex.loc/cityindex.github.com/assets/themes/labs-team/css/style.css",
+		"/var/www/cityindex.loc/cityindex.github.com/pages.html",
+		"/var/www/cityindex.loc/cityindex.github.com/home.html",
+		"/var/www/cityindex.loc/cityindex.github.com/_includes/JB/github",
+		"/var/www/cityindex.loc/cityindex.github.com/_config.yml",
+		"/var/www/cityindex.loc/cityindex.github.com/index.md",
+		"/var/www/cityindex.loc/cityindex.github.com/_includes/themes/labs-team/page.html",
+		"/var/www/cityindex.loc/cityindex.github.com/_layouts/default.html",
+		"/var/www/cityindex.loc/cityindex.github.com/_includes/themes/labs-team/settings.yml",
+		"/var/www/cityindex.loc/cityindex.github.com/README.md",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/wp-cli.yml",
+		"/var/www/cityindex.loc/wednesday-games/tankworld.js",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/build.xml",
+		"/var/www/cityindex.loc/foo.sh",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/README.md",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/src/stackato.yml",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/env_vars.sh",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/api-connection-manager/class-api-con-mngr-view.php",
+		"/var/www/cityindex.loc/wednesday-games/release notes.txt",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/package.json",
+		"/var/www/cityindex.loc/pressupbox-development-boilerplate/envexport.sh",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-includes/class-wp-admin-bar.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/class-wp-mvc-admin-bar.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/WP_Extend/class-wp-extend.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/WP_Extend/README.md",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/index.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-includes/admin-bar.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/class-wp-extend.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/wp-mvc-admin-bar/test.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-settings.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-includes/plugin.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/api-connection-manager/index.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/api-con-mngr-modules/index.php",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-content/plugins/api-connection-manager/class-api-con-mngr-module.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/api-con-mngr-modules/dropbox/index.php",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-content/plugins/api-connection-manager/includes/OAuth.php",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-admin/includes/nav-menu.php",
+		"/var/www/cityindex.loc/api-connection-manager/wp3.5/wp-includes/admin-bar.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/api-connection-manager/class-api-connection-manager.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/autoflow/application/modules/AutoFlow_Privacy.class.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/autoflow/application/modules/AutoFlow_API.class.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/autoflow/index.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/network-privacy/ra-network-privacy.php",
+		"/var/www/cityindex.loc/labs.cityindex.com/httpdocs/wp-content/plugins/autoflow/application/Config.class.php",
+		"/var/www/flowdock/python/Flowdock-Chat-GUI/flowdockClient/__init__.py",
+		"/var/www/flowdock/python/Flowdock-Chat-GUI/README.md",
+		"/var/www/flowdock/python/Flowdock-Chat-GUI/__init__.py",
+		"/var/www/flowdock/python/Flowdock-Chat-GUI/.gitignore",
+		"/var/www/flowdock/python/Flowdock-Chat-GUI/settings.py",
+		"/home/daithi/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/flowdock/python/flowdock-chat-gui/__init__.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/cityindex.loc/pressupbox-development-boilerplate"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p",
+			"│",
+			"+",
+			"doc",
+			"docs",
+			"apt-get",
+			"sudo",
+			"wordpress",
+			"parent",
+			"ci-log",
+			"Jek",
+			"jek",
+			"js",
+			"site",
+			"chef",
+			"start",
+			"add_menus",
+			"wpdb",
+			"$this->parent",
+			"extend",
+			"admin_bar_init",
+			"WP_MVC_Admin_bar",
+			"[type]",
+			"salt",
+			"user_nicename",
+			"@get_blog_permalink($blog->userblog_id, null)",
+			"print",
+			"\"",
+			"admin",
+			"$this->admin",
+			"this->admin",
+			"$this->settings",
+			"\n	",
+			";\n",
+			"admin",
+			"die"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "prototype/git-notifier.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 194.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dropbox/inde",
+				"labs.cityindex.com/httpdocs/wp-content/plugins/api-con-mngr-modules/dropbox/index.php"
+			],
+			[
+				"class-api-",
+				"api-connection-manager/wp3.5/wp-content/plugins/api-connection-manager/class-api-con-mngr-module.php"
+			],
+			[
+				"class-api",
+				"labs.cityindex.com/httpdocs/wp-content/plugins/api-connection-manager/class-api-connection-manager.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}
